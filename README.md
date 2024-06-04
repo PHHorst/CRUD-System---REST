@@ -1,0 +1,1 @@
+Projeto realizado na matéria de sistemas distribuidos no curso de Engenharia de Computação da UTFPR - Câmpus Toledo visando implementar um sistema CRUD utilizando WebService com um sistema REST completo, neste caso utilizamos o REST-Framework do Django como biblioteca para possibilitar a implementação
